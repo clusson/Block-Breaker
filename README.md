@@ -1,2 +1,2 @@
-# Ball-Breaker
-Ball Breaker developed in Unity
+# Block-Breaker
+Block Breaker developed in Unity
