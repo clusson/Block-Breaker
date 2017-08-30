@@ -19,7 +19,7 @@ public class LevelManager : MonoBehaviour {
 	}
 
 	public void LoadNextLevel() {
-		SceneManager.LoadScene(SceneManager.LoadScene +1);
+		SceneManager.LoadScene(Application.loadedLevel + 1);
 	}
 
 	public void BrickDestroyed ()
